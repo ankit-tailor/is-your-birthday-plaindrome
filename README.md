@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Project link: https://dreamy-kepler-9480fe.netlify.app/#content
+Project link: https://dreamy-kepler-9480fe.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
