@@ -2,6 +2,9 @@
 
 Project link: https://dreamy-kepler-9480fe.netlify.app/
 
+# About
+Check if birthday is palindrome or not, if not then it will tell your nearest date.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
